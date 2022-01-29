@@ -12,4 +12,4 @@ function Gallery ({ currentCategory }) {
         </section>
     );
 }
-export default Gallery;
+export default Gallery; 
